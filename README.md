@@ -12,7 +12,6 @@
 <h3>Linguagens e tools:</h3>
 <p>
     <a href="https://www.javascript.com/"><img width="26px" src="https://i.imgur.com/Di8CnWZ.png"></a>&nbsp;
-    <a href="https://html.spec.whatwg.org/"><img width="26px" src="https://i.imgur.com/6pRVPpe.png?1"></a>&nbsp;
     <a href="https://www.mongodb.com/"><img width="26px" src="https://i.imgur.com/ot2TdCH.png?1"></a>&nbsp;
     <a href="https://code.visualstudio.com/"><img width="26px" src="https://i.imgur.com/fCqJo2Z.png"></a>&nbsp;
 </p>
