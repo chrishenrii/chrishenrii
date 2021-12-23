@@ -5,13 +5,12 @@
 
 <p align="center">
     <a href="https://github.com/chrishenrii">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrishenrii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenrii&layout=compact&langs_count=7&theme=dracula"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=chrishenrii&show_icons=true&locale=pt-br&include_all_commits=true&count_private=true&title_color=DCDCDC&icon_color=FF0000&text_color=9f9f9f&bg_color=000000&border_color=000000"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrishenrii&layout=compact&langs_count=7&locale=pt-br&&title_color=DCDCDC&icon_color=FF0000&text_color=9f9f9f&bg_color=000000&border_color=000000"/>
 </p>
 
-<hr />
 
-<h3>Linguagens e ferramentas:</h3>
+<h3>Linguagens e tools:</h3>
 <p>
     <a href="https://www.javascript.com/"><img src="https://i.imgur.com/Di8CnWZ.png" width="26px"></a>&nbsp;
     <a href="https://html.spec.whatwg.org/"><img src="https://i.imgur.com/6pRVPpe.png?1" width="25px"></a>&nbsp;
