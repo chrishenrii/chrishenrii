@@ -1,4 +1,3 @@
-<h1 align="center"> Olá 👋</h1>
 <p align="center">
     Sou um Desenvolvedor de Software Júnior com especialização em desenvolvimento Web front-end e em Desenvolvimento de
     Bot Discord.
@@ -11,9 +10,9 @@
 
 <h3>Linguagens e tools:</h3>
 <p>
-    <a href="https://www.javascript.com/"><img width="26px" src="https://i.imgur.com/Di8CnWZ.png"></a>&nbsp;
-    <a href="https://www.mongodb.com/"><img width="26px" src="https://i.imgur.com/ot2TdCH.png?1"></a>&nbsp;
-    <a href="https://code.visualstudio.com/"><img width="26px" src="https://i.imgur.com/fCqJo2Z.png"></a>&nbsp;
+    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-javascript-1f242a?style=for-the-badge&logo=javascript&logoColor="></a>
+    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-visual studio-1f242a?style=for-the-badge&logo=visualstudio&logoColor=blue"></a>
+    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-mongodb-1f242a?style=for-the-badge&logo=mongodb&logoColor="></a>
 </p>
 
 <hr />
@@ -21,12 +20,9 @@
 <h3>Contatos:</h3>
 <p>
     <a href="https://www.instagram.com/chris_henrii/"><img
-            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>&nbsp;
-    <a href="https://discord.com/users/879928407872376873" target="_blank"><img
-            src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
-            target="_blank"></a>&nbsp;
-    <a href="https://www.linkedin.com/in/christian-henrique-a328a719b/" target="_blank"><img
-            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            target="_blank"></a>&nbsp;
+            src="https://img.shields.io/badge/-Instagram-1f242a?style=for-the-badge&logo=instagram&logoColor="></a>
+    <a href="https://discord.com/users/879928407872376873"><img
+            src="https://img.shields.io/badge/Discord-1f242a?style=for-the-badge&logo=discord&logoColor="></a>
+    <a href="https://www.linkedin.com/in/christian-henrique-a328a719b/"><img
+            src="https://img.shields.io/badge/-LinkedIn-1f242a?style=for-the-badge&logo=linkedin&logoColor="></a>
 </p>
