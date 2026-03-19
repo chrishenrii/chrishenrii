@@ -19,10 +19,8 @@
 
 <h3>Contatos:</h3>
 <p>
-    <a href="https://www.instagram.com/chris_henrii/"><img
-            src="https://img.shields.io/badge/-Instagram-1f242a?style=for-the-badge&logo=instagram&logoColor="></a>
     <a href="https://discord.com/users/879928407872376873"><img
-            src="https://img.shields.io/badge/Discord-1f242a?style=for-the-badge&logo=discord&logoColor="></a>
-    <a href="https://www.linkedin.com/in/christian-henrique-a328a719b/"><img
-            src="https://img.shields.io/badge/-LinkedIn-1f242a?style=for-the-badge&logo=linkedin&logoColor="></a>
+            src="https://img.shields.io/badge/Discord-1f242a?style=for-the-badge&color=%235865F2"></a>
+    <a href="https://www.linkedin.com/in/christian-soares/"><img
+            src="https://img.shields.io/badge/-LinkedIn-1f242a?style=for-the-badge&color=%230077B5"></a>
 </p>
