@@ -1,5 +1,5 @@
 <p align="center">
-    Sou um Analista Programador Júnior apaixonado por desenvolvimento de software e resolução de problemas complexos e desafiadores. tenho expertise em análise de sistemas, desenvolvimento de aplicações web e mobile, e integração de sistemas. Sou especializado em tecnologias como React Native, JavaScript, Typescript, SQL e NoSQL
+    Sou um Analista Programador Júnior apaixonado por desenvolvimento de software. tenho expertise em análise de sistemas, desenvolvimento de aplicações web e mobile, e integração de sistemas. Sou especializado em tecnologias como React Native, JavaScript, Typescript, SQL e NoSQL
 </p>
 
 <p align="center">
