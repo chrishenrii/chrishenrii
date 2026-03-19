@@ -1,6 +1,5 @@
 <p align="center">
-    Sou um Desenvolvedor de Software Júnior com especialização em desenvolvimento Web front-end e em Desenvolvimento de
-    Bot Discord.
+    Sou um Analista Programador Júnior apaixonado por desenvolvimento de software e resolução de problemas complexos e desafiadores. tenho expertise em análise de sistemas, desenvolvimento de aplicações web e mobile, e integração de sistemas. Sou especializado em tecnologias como React Native, JavaScript, Typescript, SQL e NoSQL
 </p>
 
 <p align="center">
@@ -11,8 +10,8 @@
 <h3>Linguagens e tools:</h3>
 <p>
     <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-javascript-1f242a?style=for-the-badge&logo=javascript&logoColor="></a>
-    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-visual studio-1f242a?style=for-the-badge&logo=visualstudio&logoColor=blue"></a>
-    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/-mongodb-1f242a?style=for-the-badge&logo=mongodb&logoColor="></a>
+        <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/TypeScript-1f242a?style=for-the-badge&logo=TypeScript"></a>
+    <a href="https://github.com/chrishenrii/"><img src="https://img.shields.io/badge/react-1f242a?style=for-the-badge&logo=react"></a>
 </p>
 
 <hr />
